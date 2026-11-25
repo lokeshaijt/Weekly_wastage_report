@@ -1,0 +1,10 @@
+# company data and generated reports stay out of the repository
+*.xlsx
+*.xlsb
+*.xls
+*.zip
+input/
+output/
+__pycache__/
+*.pyc
+.venv/
